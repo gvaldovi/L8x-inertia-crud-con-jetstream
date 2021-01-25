@@ -7,8 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-
+<p>
 <img src="https://raw.githubusercontent.com/gvaldovi/inertia-crud-con-jetstream/master/resources/assets/img1.png" >
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/gvaldovi/inertia-crud-con-jetstream/master/resources/assets/img2.png" >
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/gvaldovi/inertia-crud-con-jetstream/master/resources/assets/img3.png" >
 </p>
 
 ## About Laravel
