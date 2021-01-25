@@ -8,8 +8,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/gvaldovi/
-inertia-crud-con-jetstream/master/assets/img1.png">
+<img src="https://raw.githubusercontent.com/gvaldovi/inertia-crud-con-jetstream/master/resources/assets/img1.png" >
 </p>
 
 ## About Laravel
